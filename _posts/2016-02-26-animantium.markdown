@@ -1,13 +1,13 @@
 ---
 layout: default
-modal-id: zoo-catchback
+modal-id: animantium
 date: 2016-02-26
-img: cake.png
+img: game.png
 imgs:
- - id: zoo-catchback-1
-   path: cake.png
- - id: zoo-catchback-2
-   path: cabin.png
+ - id: animantium-1
+   path: game.png
+ - id: animantium-2
+   path: circus.png
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
