@@ -1,0 +1,27 @@
+---
+layout: default
+modal-id: sungodarena
+date: 2016-02-26
+img: game.png
+imgs:
+ - id: sungodarena-1
+   path: game.png
+ - id: sungodarena-2
+   path: circus.png
+ - id: sungodarena-3
+   path: game.png
+ - id: sungodarena-4
+   path: circus.png
+ - id: sungodarena-5
+   path: game.png
+ - id: sungodarena-6
+   path: circus.png
+ - id: sungodarena-7
+   path: game.png
+ - id: sungodarena-8
+   path: circus.png
+project-date: April 2014
+category: Game Development
+link: http://www.facebook.com
+description: Zoo Catchback merupakan game!
+---

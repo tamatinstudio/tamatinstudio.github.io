@@ -1,0 +1,27 @@
+---
+layout: default
+modal-id: burglar
+date: 2016-02-26
+img: game.png
+imgs:
+ - id: burglar-1
+   path: game.png
+ - id: burglar-2
+   path: circus.png
+ - id: burglar-3
+   path: game.png
+ - id: burglar-4
+   path: circus.png
+ - id: burglar-5
+   path: game.png
+ - id: burglar-6
+   path: circus.png
+ - id: burglar-7
+   path: game.png
+ - id: burglar-8
+   path: circus.png
+project-date: April 2014
+category: Game Development
+link: http://www.facebook.com
+description: Zoo Catchback merupakan game!
+---

@@ -1,0 +1,27 @@
+---
+layout: default
+modal-id: moody-arena
+date: 2016-02-26
+img: game.png
+imgs:
+ - id: moody-arena-1
+   path: game.png
+ - id: moody-arena-2
+   path: circus.png
+ - id: moody-arena-3
+   path: game.png
+ - id: moody-arena-4
+   path: circus.png
+ - id: moody-arena-5
+   path: game.png
+ - id: moody-arena-6
+   path: circus.png
+ - id: moody-arena-7
+   path: game.png
+ - id: moody-arena-8
+   path: circus.png
+project-date: April 2014
+category: Game Development
+link: http://www.facebook.com
+description: Zoo Catchback merupakan game!
+---

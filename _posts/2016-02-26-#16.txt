@@ -1,12 +1,24 @@
 ---
 layout: default
-modal-id: animantium
+modal-id: 16
 date: 2016-02-26
 img: game.png
 imgs:
- - id: animantium-1
+ - id: 16-1
    path: game.png
- - id: animantium-2
+ - id: 16-2
+   path: circus.png
+ - id: 16-3
+   path: game.png
+ - id: 16-4
+   path: circus.png
+ - id: 16-5
+   path: game.png
+ - id: 16-6
+   path: circus.png
+ - id: 16-7
+   path: game.png
+ - id: 16-8
    path: circus.png
 project-date: April 2014
 category: Game Development

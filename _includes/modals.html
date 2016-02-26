@@ -16,13 +16,14 @@
                             <hr class="star-primary">
                             <div class="row">
                                 <div class="slider">
-                                {% for img in post.imgs%}
+                                    <div style="margin-top:100px"></div>
+                                    {% for img in post.imgs %}
                                     <input type="radio" name="slide_switch" id="{{ img.id }}" checked/>
                                     <label for="{{ img.id }}">
                                         <img src="img/portfolio/{{ img.path }}" width="100"/>
                                     </label>
                                     <img src="img/portfolio/{{ img.path }}" class="img-responsive img-centered"/>
-                                {% endfor %}
+                                    {% endfor %}
                                 </div>
                             </div>
                             <p>{{ post.description }}</p>
