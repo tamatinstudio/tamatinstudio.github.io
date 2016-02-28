@@ -2,10 +2,10 @@
 layout: default
 modal-id: sungodarena
 date: 2016-02-26
-img: game.png
+img: testImage.png
 imgs:
  - id: sungodarena-1
-   path: game.png
+   path: testImage.png
  - id: sungodarena-2
    path: circus.png
  - id: sungodarena-3
