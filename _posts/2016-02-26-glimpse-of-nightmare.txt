@@ -2,24 +2,18 @@
 layout: default
 modal-id: nightmare
 date: 2016-02-26
-img: game.png
+img: gon-0.png
 imgs:
  - id: nightmare-1
-   path: game.png
+   path: gon-0.png
  - id: nightmare-2
-   path: circus.png
+   path: gon-1.png
  - id: nightmare-3
-   path: game.png
+   path: gon-2.png
  - id: nightmare-4
-   path: circus.png
+   path: gon-3.png
  - id: nightmare-5
-   path: game.png
- - id: nightmare-6
-   path: circus.png
- - id: nightmare-7
-   path: game.png
- - id: nightmare-8
-   path: circus.png
+   path: gon-4.png
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
