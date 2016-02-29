@@ -23,5 +23,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: Zoo Catchback merupakan game!
+description: Animantium merupakan mobile game yang dikembangkan untuk mengikuti Compfest 2014 <br> Animantium bercerita  tentang blablabla
 ---
