@@ -23,5 +23,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: Zoo Catchback merupakan game!
+description: I have no idea merupakan game yang dibuat saat acara INGAME jam 2015 di Jogja.<br><br>I have no idea dibangun dengan tim yang cukup besar, yaitu 7 orang. 2 game designer, 2 programmer, dan 3 artist. Permainan ini merupakan 2d infinite running platformer dimana pemain harus menaikkan atau menurunkan platformnya agar karakter dapat terus berlari tanpa terjatuh.
 ---
