@@ -23,5 +23,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: Zoo Catchback merupakan game!
+description: Moody Arena dibuat untuk mengikuti game jam indiesvsgamers 2015.<br><br>Moody Arena merupakan <b>multiplayer 2d action platformer</b> dimana pemain dapat memukul dan menendang pemain lainnya untuk menjatuhkan mereka dari platform. Platfrom-platform yang ada akan terus turun, sehingga pemain harus terus bertahan hidup dari pemain lainnya dan juga harus bertahan hidup agar tidak terbawa turun platform terlalu jauh hingga mati.<br><br> Pemain yang dapat bertahan hidup paling lama memenangkan pertandingannya.
 ---

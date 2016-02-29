@@ -15,5 +15,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: Zoo Catchback merupakan game!
+description: Sun God Arena dikembangkan untuk mengikuti acara Global Game Jam 2016!
 ---
