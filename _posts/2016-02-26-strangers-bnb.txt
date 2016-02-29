@@ -2,24 +2,16 @@
 layout: default
 modal-id: strangers
 date: 2016-02-26
-img: game.png
+img: sbnb-0.png
 imgs:
  - id: strangers-1
-   path: game.png
+   path: sbnb-0.png
  - id: strangers-2
-   path: circus.png
+   path: sbnb-1.png
  - id: strangers-3
-   path: game.png
+   path: sbnb-2.png
  - id: strangers-4
-   path: circus.png
- - id: strangers-5
-   path: game.png
- - id: strangers-6
-   path: circus.png
- - id: strangers-7
-   path: game.png
- - id: strangers-8
-   path: circus.png
+   path: sbnb-3.png
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com

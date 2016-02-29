@@ -2,12 +2,18 @@
 layout: default
 modal-id: zoo-catchback
 date: 2016-02-26
-img: cake.png
+img: zcb-0.png
 imgs:
  - id: zoo-catchback-1
-   path: cake.png
+   path: zcb-0.png
  - id: zoo-catchback-2
-   path: cabin.png
+   path: zcb-1.png
+ - id: zoo-catchback-3
+   path: zcb-2.png
+ - id: zoo-catchback-4
+   path: zcb-3.png
+ - id: zoo-catchback-5
+   path: zcb-4.png
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
