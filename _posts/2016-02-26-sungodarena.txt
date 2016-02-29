@@ -15,5 +15,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: Zoo Catchback merupakan game!
+description: Sun God Arena dikembangkan untuk mengikuti acara Global Game Jam 2016.<br><br>Sun God Arena didesain sebagai game yang dapat dimainkan di twitch. Jadi penonton yang berada pada twitch chat dapat ikut bergabung dalam gamenya dengan mengetikkan perintah yang sudah disediakan pada chat.<br><br>Pemain hanya perlu memasukkan strategi dari petarung yang dipanggil, yaitu antara rock, paper, atau scissor. Petarung rock menang melawan paper, paper menang melawan scissor, dan scissor menang melawan rock. Sama seperti permainan batu-gunting-kertas biasanya. Petarung akan bertarung dengan sendirinya digerakkan oleh AI sesuai dengan strategi yang sudah dimasukkan.<br><br>Selain itu pemain juga dapat melakukan voting untuk event-event yang terjadi pada game, seperti pergantian cuaca dan mood sang raksasa yang berada pada arena.
 ---

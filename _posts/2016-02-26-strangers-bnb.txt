@@ -23,5 +23,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: Zoo Catchback merupakan game!
+description: Strangers Block and Beyond (S-BnB) dibuat untuk mengikuti Global Game Jam 2015. S-BnB merupakan <b>multiplayer 2d top-down shooter</b>. Dikembangkan menggunakan Unity Game Engine.<br><br>Permainan ini harus dimainkan oleh 2 pemain dengan 2 layar berbeda. Karena dalam permainan ini terdapat musuh yang hanya bisa diliha oleh salah satu pemain, namun yang dapat membunuh musuh tersebut adalah pemain yang satunya lagi. Hal ini berlaku sebaliknya pula. Oleh karena itu dalam permainan ini dibutuhkan koordinasi yang baik antar kedua pemainnya untuk menghindari dan menembak musuh-musuh yang tidak terlihat tersebut.
 ---

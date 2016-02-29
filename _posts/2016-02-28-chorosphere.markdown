@@ -23,5 +23,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: Zoo Catchback merupakan game!
+description: Chorosphere merupakan game yang dibuat untuk mengikuti lomba Imagine Cup 2014.<br><br>Chorosphere bercerita mengenai alien bernama Choro yang tersesat ke dunia Manusia.<br><br>Chorosphere merupakan permainan puzzle dimana pemain harus mengubah layout rumah dengan cara memutar tembok agar Choro dapat keluar dari rumah dengan selamat tanpa ketahuan manusia.
 ---

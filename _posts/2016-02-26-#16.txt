@@ -15,5 +15,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: Zoo Catchback merupakan game!
+description: 16 merupakan permainan yang dibuat untuk mengikuti Ludum Dare 33.<br><br>#16 bercerite mengenai kehidupan seorang pembunuh yang sedang mencari mangsanya. Game ini terinspirasi dari sebuah cerita pada suatu forum online. Kita bermain sebagai pembunuh tersebut dalam mencari mangsa yang tepat hingga menguntit tanpa ketahuan mangsa tersebut.
 ---
