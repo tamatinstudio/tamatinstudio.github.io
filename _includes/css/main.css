@@ -470,7 +470,8 @@ footer .footer-below {
     position: absolute;
     left: 0; top: 0;
     transition: all 0.5s;
-	box-shadow: 0 10px 20px #888888;
+    
+    box-shadow: 0 10px 20px #888888;
 }
 
 .slider input[name='slide_switch'] {
