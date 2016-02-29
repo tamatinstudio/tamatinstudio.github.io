@@ -2,24 +2,16 @@
 layout: default
 modal-id: sungodarena
 date: 2016-02-26
-img: testImage.png
+img: sunGod-0.png
 imgs:
  - id: sungodarena-1
-   path: testImage.png
+   path: sunGod-0.png
  - id: sungodarena-2
-   path: testImage.png
+   path: sunGod-1.png
  - id: sungodarena-3
-   path: testImage.png
+   path: sunGod-2.png
  - id: sungodarena-4
-   path: testImage.png
- - id: sungodarena-5
-   path: testImage.png
- - id: sungodarena-6
-   path: testImage.png
- - id: sungodarena-7
-   path: testImage.png
- - id: sungodarena-8
-   path: testImage.png
+   path: sunGod-3.png
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
