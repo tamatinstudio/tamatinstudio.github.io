@@ -459,7 +459,7 @@ footer .footer-below {
     width: 640px; /*Same as width of the large image*/
     position: relative;
     /*Instead of height we will use padding*/
-    padding-top: 370px; /*That helps bring the labels down*/
+    padding-top: 270px; /*That helps bring the labels down*/
     
     margin: auto;
 }
@@ -470,6 +470,7 @@ footer .footer-below {
     position: absolute;
     left: 0; top: 0;
     transition: all 0.5s;
+    
     box-shadow: 0 10px 20px #888888;
 }
 
