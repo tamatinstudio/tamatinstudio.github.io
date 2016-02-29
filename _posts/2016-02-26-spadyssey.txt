@@ -2,24 +2,18 @@
 layout: default
 modal-id: spadyssey
 date: 2016-02-26
-img: game.png
+img: spadyssey-0.png
 imgs:
  - id: spadyssey-1
-   path: game.png
+   path: spadyssey-0.png
  - id: spadyssey-2
-   path: circus.png
+   path: spadyssey-1.png
  - id: spadyssey-3
-   path: game.png
+   path: spadyssey-2.png
  - id: spadyssey-4
-   path: circus.png
+   path: spadyssey-3.png
  - id: spadyssey-5
-   path: game.png
- - id: spadyssey-6
-   path: circus.png
- - id: spadyssey-7
-   path: game.png
- - id: spadyssey-8
-   path: circus.png
+   path: spadyssey-4.png
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
