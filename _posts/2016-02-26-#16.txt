@@ -2,24 +2,14 @@
 layout: default
 modal-id: 16
 date: 2016-02-26
-img: game.png
+img: 16-0.png
 imgs:
  - id: 16-1
-   path: game.png
+   path: 16-0.png
  - id: 16-2
-   path: circus.png
+   path: 16-1.png
  - id: 16-3
-   path: game.png
- - id: 16-4
-   path: circus.png
- - id: 16-5
-   path: game.png
- - id: 16-6
-   path: circus.png
- - id: 16-7
-   path: game.png
- - id: 16-8
-   path: circus.png
+   path: 16-2.png
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
