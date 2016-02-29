@@ -2,24 +2,16 @@
 layout: default
 modal-id: angling-bots
 date: 2016-02-26
-img: game.png
+img: angling-0.png
 imgs:
  - id: angling-bots-1
-   path: game.png
+   path: angling-0.png
  - id: angling-bots-2
-   path: circus.png
+   path: angling-1.png
  - id: angling-bots-3
-   path: game.png
+   path: angling-2.png
  - id: angling-bots-4
-   path: circus.png
- - id: angling-bots-5
-   path: game.png
- - id: angling-bots-6
-   path: circus.png
- - id: angling-bots-7
-   path: game.png
- - id: angling-bots-8
-   path: circus.png
+   path: angling-3.png
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
