@@ -1,9 +1,9 @@
 ---
 layout: portfolio
-modal-id: particle-dash
 title: particle dash
+modal-id: particle-dash
 date: 2016-02-26
-img: pd-0
+img: pd-0.png
 imgs:
  - id: particle-dash-1
    path: pd-0.png
@@ -17,4 +17,8 @@ project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
 ---
-Zoo Catchback merupakan game
+Particle Dash merupakan sebuah game yang terinspirasi dari salah satu permainan dalam media kertas dan pensil.
+
+Particle Dash merupakan sebuah game **multiplayer** yang dapat dimainkan hingga 4 orang.
+Setiap orang akan mengendalikan sebuah Particle yang akan menyusuri sebuah track yang penuh dengan rintangan.
+Pemain harus berusaha untuk bertahan dalam track dan tidak tertinggal untuk dapat memenangkan permainan.
