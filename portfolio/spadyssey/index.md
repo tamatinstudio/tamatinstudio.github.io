@@ -19,4 +19,8 @@ project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
 ---
-Zoo Catchback merupakan game!
+Spadyssey merupakan sebuah game hasil dari **indies vs pewdiepie** game jam dengan tema arcade.
+
+Spadyssey menyuguhkan sebuah gameplay yang sederhana hanya dengan menggunakan 1 tombol.
+
+Pemain akan mengendalikan sebuah pesawat yang harus menjelajahi alam semesta dengan mengumpulkan energi-energi yang bertebaran.
