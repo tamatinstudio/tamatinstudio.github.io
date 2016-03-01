@@ -19,4 +19,4 @@ link: http://www.facebook.com
 ---
 #16 merupakan permainan yang dibuat untuk mengikuti Ludum Dare 33.
 
-#16 bercerite mengenai kehidupan seorang pembunuh yang sedang mencari mangsanya. Game ini terinspirasi dari sebuah cerita pada suatu forum online. Kita bermain sebagai pembunuh tersebut dalam mencari mangsa yang tepat hingga menguntit tanpa ketahuan mangsa tersebut.
+#16 bercerita mengenai kehidupan seorang pembunuh yang sedang mencari mangsanya. Game ini terinspirasi dari sebuah cerita pada suatu forum online. Kita bermain sebagai pembunuh tersebut dalam mencari mangsa yang tepat hingga menguntit tanpa ketahuan mangsa tersebut.
