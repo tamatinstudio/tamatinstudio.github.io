@@ -3,7 +3,7 @@ layout: portfolio
 modal-id: particle-dash
 title: particle dash
 date: 2016-02-26
-img: pd-0.png
+img: pd-0
 imgs:
  - id: particle-dash-1
    path: pd-0.png
