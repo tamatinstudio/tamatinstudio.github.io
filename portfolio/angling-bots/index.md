@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: portfolio
+title: angling bots
 modal-id: angling-bots
 date: 2016-02-26
-img: angling-0
+img: angling-0.png
 imgs:
  - id: angling-bots-1
    path: angling-0.png
@@ -15,5 +16,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: Zoo Catchback merupakan game!
 ---
+Zoo Catchback merupakan game!

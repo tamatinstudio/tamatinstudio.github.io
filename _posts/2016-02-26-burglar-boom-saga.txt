@@ -1,7 +1,7 @@
 ---
-modal-id: burglar
+modal-id: burglar-boom-saga
 date: 2016-02-26
-img: bbs-0.png
+img: bbs-0
 imgs:
  - id: burglar-1
    path: bbs-0.png

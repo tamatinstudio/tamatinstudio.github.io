@@ -1,0 +1,34 @@
+<div class="container">
+    <div style="margin-top:100px"></div>
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+            <h2 align="middle">{{ page.title }}</h2>
+            <hr class="star-primary">
+            <div class="row">
+                <div class="slider">
+                    <div style="margin-top:100px"></div>
+                    {% for img in page.imgs %}
+                    <input type="radio" name="slide_switch" id="{{ img.id }}" checked/>
+                    <label for="{{ img.id }}">
+                        <img src="../../img/portfolio/{{ img.path }}" width="100"/>
+                    </label>
+                    <img src="../../img/portfolio/{{ img.path }}" class="img-responsive img-centered"/>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="row">
+                <p style="margin-top:10px" align="justify">{{ page.content }}</p>
+            </div>
+            <ul class="list-inline item-details">
+                <li>Prev:
+                    <strong>{{ page.prev }}</a>
+                    </strong>
+                </li>
+                <li>Next:
+                    <strong>{{ page.next }}</a>
+                    </strong>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

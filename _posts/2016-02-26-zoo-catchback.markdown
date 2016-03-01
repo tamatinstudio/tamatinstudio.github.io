@@ -2,7 +2,7 @@
 layout: default
 modal-id: zoo-catchback
 date: 2016-02-26
-img: zcb-0.png
+img: zcb-0
 imgs:
  - id: zoo-catchback-1
    path: zcb-0.png

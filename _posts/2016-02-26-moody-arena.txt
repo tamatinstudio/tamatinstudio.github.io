@@ -2,7 +2,7 @@
 layout: default
 modal-id: moody-arena
 date: 2016-02-26
-img: moody-0.png
+img: moody-0
 imgs:
  - id: moody-arena-1
    path: moody-0.png

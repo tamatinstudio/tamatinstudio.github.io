@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: no-idea
+modal-id: i-have-no-idea
 date: 2016-02-26
-img: ihni-0.png
+img: ihni-0
 imgs:
  - id: no-idea-1
    path: ihni-0.png

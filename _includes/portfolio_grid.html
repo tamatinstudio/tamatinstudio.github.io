@@ -9,17 +9,19 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.posts %}
+                {% for page in site.posts %}
+                    {% if page.title %}
                     <div class="col-sm-3 portfolio-item">
-                        <a href="#{{ post.modal-id }}" name="{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        <a href="/portfolio/{{ page.modal-id }}" name="{{ page.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <img src="img/portfolio/{{ page.img }}-thumbnail.png" class="img-responsive" alt="{{ page.alt }}">
                         </a>
                     </div>
+                    {% endif %}
                 {% endfor %}
             </div>
         </div>

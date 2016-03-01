@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: portfolio
 modal-id: glimpse-of-nightmare
+title: glimpse of nightmare
 date: 2016-02-26
-img: gon-0
+img: gon-0.png
 imgs:
  - id: nightmare-1
    path: gon-0.png
@@ -17,5 +18,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: nightmare!
 ---
+nightmare!

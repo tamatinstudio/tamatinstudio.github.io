@@ -2,7 +2,7 @@
 layout: default
 modal-id: animantium
 date: 2016-02-26
-img: animantium-0.png
+img: animantium-0
 imgs:
  - id: animantium-1
    path: animantium-0.png

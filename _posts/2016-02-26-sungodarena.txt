@@ -2,7 +2,7 @@
 layout: default
 modal-id: sungodarena
 date: 2016-02-26
-img: sunGod-0.png
+img: sunGod-0
 imgs:
  - id: sungodarena-1
    path: sunGod-0.png

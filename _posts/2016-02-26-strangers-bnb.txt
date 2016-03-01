@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: strangers
+modal-id: strangers-bnb
 date: 2016-02-26
-img: sbnb-0.png
+img: sbnb-0
 imgs:
  - id: strangers-1
    path: sbnb-0.png

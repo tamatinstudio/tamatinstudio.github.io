@@ -2,7 +2,7 @@
 layout: default
 modal-id: 16
 date: 2016-02-26
-img: 16-0.png
+img: 16-0
 imgs:
  - id: 16-1
    path: 16-0.png

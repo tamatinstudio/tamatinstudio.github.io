@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: portfolio
+title: spadyssey
 modal-id: spadyssey
 date: 2016-02-26
-img: spadyssey-0
+img: spadyssey-0.png
 imgs:
  - id: spadyssey-1
    path: spadyssey-0.png
@@ -17,5 +18,5 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-description: Zoo Catchback merupakan game!
 ---
+Zoo Catchback merupakan game!
