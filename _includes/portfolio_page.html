@@ -16,19 +16,9 @@
                     {% endfor %}
                 </div>
             </div>
-            <div class="row">
-                <p style="margin-top:10px" align="justify">{{ page.content }}</p>
+            <div class="row" align="justify">
+                <p style="margin-top:10px" align="justify">{{ page.content | markdownify }}</p>
             </div>
-            <ul class="list-inline item-details">
-                <li>Prev:
-                    <strong>{{ page.prev }}</a>
-                    </strong>
-                </li>
-                <li>Next:
-                    <strong>{{ page.next }}</a>
-                    </strong>
-                </li>
-            </ul>
         </div>
     </div>
 </div>
