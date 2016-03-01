@@ -19,4 +19,8 @@ project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
 ---
-nightmare!
+Glimpse of Nightmare merupakan sebuah game puzzle platformer yang dimainkan oleh 2 orang.
+Karakter dari masing masing pemain memiliki kemampuan yang berbeda sehingga pemain harus bekerja sama untuk dapat menyelesaikan permainan.
+
+Glimpse of Nightmare menceritakan petualang seorang bocah dan peri yang terjebak dalam dunia mimpi buruk.
+Apakah yang menyebabkan dunia tersebut terbentuk? Bagaimanakan cara keluar dari dunia tersebut?
