@@ -8,7 +8,11 @@
                 <div class="slider">
                     <div style="margin-top:100px"></div>
                     {% for img in page.imgs %}
+                    {% if forloop.first == true %}
                     <input type="radio" name="slide_switch" id="{{ img.id }}" checked/>
+                    {% else %}
+                    <input type="radio" name="slide_switch" id="{{ img.id }}"/>
+                    {% endif %}
                     <label for="{{ img.id }}">
                         <img src="../../img/portfolio/{{ img.path }}" width="100"/>
                     </label>

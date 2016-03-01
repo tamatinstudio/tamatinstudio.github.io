@@ -36,10 +36,11 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
+var x;
 // Portfolio link clicked
 $('.portfolio-link').click(function() {
     //console.log($('.slider:first-child'));
     //console.log($(this).attr('name'));
-    var x = $(this).attr('name');
+    x = $(this).attr('name');
     $('input:radio[id=' + x + '-1]').prop('checked', true);
 });
