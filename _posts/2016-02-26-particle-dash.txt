@@ -15,5 +15,4 @@ imgs:
 project-date: April 2014
 category: Game Development
 link: http://www.facebook.com
-Zoo Catchback merupakan game
 ---
