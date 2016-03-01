@@ -1,9 +1,9 @@
 ---
 layout: portfolio
-modal-id: particle-dash
 title: particle dash
+modal-id: particle-dash
 date: 2016-02-26
-img: pd-0
+img: pd-0.png
 imgs:
  - id: particle-dash-1
    path: pd-0.png
